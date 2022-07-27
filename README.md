@@ -1,2 +1,2 @@
 # React-Router
-using router in react
+use router in react
